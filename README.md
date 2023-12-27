@@ -1,0 +1,2 @@
+The data analysis was carried out on a restaurant data sample using PowerBI. It reveals the average rating of the customers and also other useful insights like customer behavior and income in relation to patronizing the restaurant. Here is what the final dashboard looks like.
+![restaurant analysis_page-0001](https://github.com/Jobbson/restaurant_analysis/assets/69438695/6b55e60d-9f20-405c-9468-0ca383071b33)
